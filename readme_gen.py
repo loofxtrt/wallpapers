@@ -17,6 +17,15 @@ def generate_html_figure(img_name, source_url, img_dimensions):
             '''
 
 def generate_readme(wallpaper_dir: Path):
+    def verify_image(img_file):
+        # verificar se o arquivo é uma imagem válida
+        try:
+            with Image.open(img_file) as img:
+                img.verify()
+            return True
+        except Exception:
+            return False
+
     def get_img_size(img_file: Path):
         # obter as dimensões da imagem em uma tupla (largura, altura)
         with Image.open(img_file) as img:
@@ -29,11 +38,11 @@ def generate_readme(wallpaper_dir: Path):
             return json.load(f)
 
     contents = ""
-    sources = load_sources(Path("management/sources.json"))
+    sources = load_sources(Path("sources.json"))
 
     for item in wallpaper_dir.iterdir():
         # ignorar arquivos que não são imagens
-        if not item.is_file() or item.suffix == ".md":
+        if not item.is_file() or not verify_image(item):
             continue
         
         # obter dimensões e source da imagem
@@ -51,4 +60,6 @@ def generate_readme(wallpaper_dir: Path):
     with open(readme, "w", encoding="utf-8") as f:
         f.write(contents)
 
-generate_readme(Path("/mnt/seagate/workspace/coding/projects/repos/wallpapers/anime"))
+for wallpaper_dir in Path(".").iterdir():
+    if wallpaper_dir.is_dir():
+        generate_readme(wallpaper_dir)

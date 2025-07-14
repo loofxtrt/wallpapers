@@ -52,5 +52,40 @@
         "a_woman_wearing_a_helmet.jpg": "https://github.com/dharmx/walls/blob/main/anime/a_woman_wearing_a_helmet.jpg",
         "cartoon_of_a_girl_in_a_bus.jpg": "https://github.com/dharmx/walls/blob/main/anime/cartoon_of_a_girl_in_a_bus.jpg",
         "power_lines_and_trees_at_sunset.jpg": "https://github.com/dharmx/walls/blob/main/anime/power_lines_and_trees_at_sunset.jpg"
+    },
+    "apocalypse": {
+        "a_building_with_traffic_cones_and_cars_in_the_rain.jpg": "https://github.com/dharmx/walls/blob/main/apocalypse/a_building_with_traffic_cones_and_cars_in_the_rain.jpg",
+        "a_car_parked_in_a_dark_alley.jpg": "https://github.com/dharmx/walls/blob/main/apocalypse/a_car_parked_in_a_dark_alley.jpg",
+        "a_car_parked_in_a_street.jpg": "https://github.com/dharmx/walls/blob/main/apocalypse/a_car_parked_in_a_street.jpg",
+        "a_car_with_luggage_on_top_of_it.jpg": "https://github.com/dharmx/walls/blob/main/apocalypse/a_car_with_luggage_on_top_of_it.jpg",
+        "a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.jpg": "https://github.com/dharmx/walls/blob/main/apocalypse/a_room_with_a_desk_and_a_chair_and_a_skull_on_the_wall.jpg",
+        "a_video_game_of_a_vehicle.jpg": "https://github.com/dharmx/walls/blob/main/apocalypse/a_video_game_of_a_vehicle.jpg",
+        "cars_on_a_train_track.jpg": "https://github.com/dharmx/walls/blob/main/apocalypse/cars_on_a_train_track.jpg"
+    },
+    "centered": {
+        "a_man_standing_on_a_car.png": "https://github.com/dharmx/walls/blob/main/centered/a_man_standing_on_a_car.png",
+        "a_red_object_in_the_sky.jpg": "https://github.com/dharmx/walls/blob/main/centered/a_red_object_in_the_sky.jpg",
+        "a_window_in_a_room.jpg": "https://github.com/dharmx/walls/blob/main/centered/a_window_in_a_room.jpg"
+    },
+    "outrun": {
+        "a_group_of_flowers_on_a_black_background.jpg": "https://github.com/dharmx/walls/blob/main/outrun/a_group_of_flowers_on_a_black_background.jpg"
+    },
+    "painting": {
+        "a_painting_of_a_tree_and_water.jpg": "https://github.com/dharmx/walls/blob/main/painting/a_painting_of_a_tree_and_water.jpg",
+        "a_painting_of_flowers_and_a_glass_of_wine.jpg": "https://github.com/dharmx/walls/blob/main/painting/a_painting_of_flowers_and_a_glass_of_wine.jpg",
+        "a_painting_of_flowers_on_a_surface.jpg": "https://github.com/dharmx/walls/blob/main/painting/a_painting_of_flowers_on_a_surface.jpg"
+    },
+    "radium": {
+        "a_group_of_flowers_on_a_black_background.png": "https://github.com/dharmx/walls/blob/main/radium/a_group_of_flowers_on_a_black_background.png",
+        "a_mountain_range_at_night.png": "https://github.com/dharmx/walls/blob/main/radium/a_mountain_range_at_night.png"
+    },
+    "spam": {
+        "a_street_lights_and_buildings_at_night.png": "https://github.com/dharmx/walls/blob/main/spam/a_street_lights_and_buildings_at_night.png",
+        "a_street_with_signs_and_lights_01.png": "https://github.com/dharmx/walls/blob/main/spam/a_street_with_signs_and_lights_01.png",
+        "a_street_with_signs_and_lights.png": "https://github.com/dharmx/walls/blob/main/spam/a_street_with_signs_and_lights.png",
+        "a_triangle_shaped_object_with_a_blue_and_white_light.png": "https://github.com/dharmx/walls/blob/main/spam/a_triangle_shaped_object_with_a_blue_and_white_light.png"
+    },
+    "albums": {
+        "machine-girl-wlfgrl.png": "https://github.com/dharmx/walls/blob/main/weirdcore/a_close_up_of_a_monster's_face.png"
     }
 }
