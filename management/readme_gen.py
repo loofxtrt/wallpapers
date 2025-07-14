@@ -13,7 +13,7 @@ def generate_html_figure(img_name, source_url, img_dimensions):
         <a href="{source_url}">source</a>
         {width}x{height}
     </figcaption>
-</figure>
+</figure><br>
             '''
 
 def generate_readme(wallpaper_dir: Path):
