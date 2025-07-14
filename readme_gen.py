@@ -60,6 +60,7 @@ def generate_readme(wallpaper_dir: Path):
     with open(readme, "w", encoding="utf-8") as f:
         f.write(contents)
 
+# percorrer todos os diretórios no root (projeto atual) e gerar um readme pra cada um
 for wallpaper_dir in Path(".").iterdir():
     if wallpaper_dir.is_dir():
         generate_readme(wallpaper_dir)

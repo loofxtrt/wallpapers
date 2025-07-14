@@ -1,13 +1,5 @@
 
 <figure>
-    <a href="a_street_lights_and_buildings_at_night.png"><img alt="a_street_lights_and_buildings_at_night.png" src="a_street_lights_and_buildings_at_night.png"></a>
-    <figcaption>
-        <a href="https://github.com/dharmx/walls/blob/main/spam/a_street_lights_and_buildings_at_night.png">source</a>
-        1377x775
-    </figcaption>
-</figure>
-            
-<figure>
     <a href="a_street_with_signs_and_lights.png"><img alt="a_street_with_signs_and_lights.png" src="a_street_with_signs_and_lights.png"></a>
     <figcaption>
         <a href="https://github.com/dharmx/walls/blob/main/spam/a_street_with_signs_and_lights.png">source</a>
