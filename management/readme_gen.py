@@ -15,6 +15,10 @@ def generate_html_figure(img_name, source_url, img_dimensions):
     </figcaption>
 </figure>
 <br>
+<br>
+<br>
+<br>
+<br>
             '''
 
 def generate_readme(wallpaper_dir: Path):
