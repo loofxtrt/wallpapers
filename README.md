@@ -1,8 +1,5 @@
 
-# wallpapers
-
 <div>
-    ## summary
     
 <p align="center">
     <a href="./albums/README.md">
@@ -55,7 +52,6 @@
 </div>
 
 <div>
-    ## gallery
     <p align="center">
   <img src="albums/machine_girl_wlfgrl.png" width="30%"/>
 </p>

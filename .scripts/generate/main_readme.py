@@ -79,15 +79,11 @@ def generate_main_readme():
     grid = generate_grid(IMAGES_PER_ROW=3)
 
     contents = f"""
-# wallpapers
-
 <div>
-    ## summary
     {summary}
 </div>
 
 <div>
-    ## gallery
     {grid}
 </div>
     """
