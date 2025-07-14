@@ -6,6 +6,7 @@
         5120x2880
     </figcaption>
 </figure>
+<hr>
             
 <figure>
     <a href="a_street_with_signs_and_lights_01.png"><img alt="a_street_with_signs_and_lights_01.png" src="a_street_with_signs_and_lights_01.png"></a>
@@ -14,6 +15,7 @@
         5120x2880
     </figcaption>
 </figure>
+<hr>
             
 <figure>
     <a href="a_triangle_shaped_object_with_a_blue_and_white_light.png"><img alt="a_triangle_shaped_object_with_a_blue_and_white_light.png" src="a_triangle_shaped_object_with_a_blue_and_white_light.png"></a>
@@ -22,4 +24,5 @@
         1920x1080
     </figcaption>
 </figure>
+<hr>
             

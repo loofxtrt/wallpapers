@@ -6,6 +6,7 @@
         3876x2180
     </figcaption>
 </figure>
+<hr>
             
 <figure>
     <a href="a_mountain_range_at_night.png"><img alt="a_mountain_range_at_night.png" src="a_mountain_range_at_night.png"></a>
@@ -14,4 +15,5 @@
         3840x2160
     </figcaption>
 </figure>
+<hr>
             

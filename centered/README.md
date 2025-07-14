@@ -6,6 +6,7 @@
         1920x1080
     </figcaption>
 </figure>
+<hr>
             
 <figure>
     <a href="a_red_object_in_the_sky.jpg"><img alt="a_red_object_in_the_sky.jpg" src="a_red_object_in_the_sky.jpg"></a>
@@ -14,6 +15,7 @@
         1920x1080
     </figcaption>
 </figure>
+<hr>
             
 <figure>
     <a href="a_window_in_a_room.jpg"><img alt="a_window_in_a_room.jpg" src="a_window_in_a_room.jpg"></a>
@@ -22,4 +24,5 @@
         1920x1080
     </figcaption>
 </figure>
+<hr>
             
