@@ -1,6 +1,8 @@
 import json
-from PIL import Image
 from pathlib import Path
+
+from utils.images import get_img_size, verify_image
+from utils.paths import SOURCES
 
 """
     gera os readmes dentro de cada pasta, listando todas as imagens dentro delas
@@ -21,31 +23,16 @@ def generate_html_figure(img_name, source_url, img_dimensions):
 <hr>
             '''
 
-def generate_sub_readme(wallpaper_dir: Path):
-    def verify_image(img_file):
-        # verificar se o arquivo é uma imagem válida
-        try:
-            with Image.open(img_file) as img:
-                img.verify()
-            return True
-        except Exception:
-            return False
-
-    def get_img_size(img_file: Path):
-        # obter as dimensões da imagem em uma tupla (largura, altura)
-        with Image.open(img_file) as img:
-            return img.size
-
+def generate_sub_readme(wall_dir: Path):
     def load_sources(sources_path: Path):
         # carrega o json de sources. deve ser usado fora do loop pra carregar apenas uma vez
-        sources_path
         with sources_path.open("r") as f:
             return json.load(f)
 
     contents = ""
-    sources = load_sources(Path("sources.json"))
+    sources = load_sources(SOURCES)
 
-    for item in wallpaper_dir.iterdir():
+    for item in wall_dir.iterdir():
         # ignorar arquivos que não são imagens
         if not item.is_file() or not verify_image(item):
             continue
@@ -56,11 +43,9 @@ def generate_sub_readme(wallpaper_dir: Path):
         # obter a source da imagem, primeiro pesquisando uma chave com o mesmo nome do diretório de wallpapers atual
         # se existir, depois disso procura por uma sub chave dentro desse dicionário que tenha o mesmo nome do item atual
         # obtendo o valor de sua chave, que é a url da source
-        url = sources.get(wallpaper_dir.name, {}).get(item.name, "")
+        url = sources.get(wall_dir.name, {}).get(item.name, "")
 
         # gerar a seção html da imagem
         contents += generate_html_figure(item.name, url, img_size)
 
-    readme = wallpaper_dir / "README.md"
-    with open(readme, "w", encoding="utf-8") as f:
-        f.write(contents)
+    return contents
