@@ -1,1 +1,1 @@
-- snake-case
+- kebab-case
