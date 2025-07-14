@@ -2,6 +2,10 @@ import json
 from PIL import Image
 from pathlib import Path
 
+"""
+    gera os readmes dentro de cada pasta, listando todas as imagens dentro delas
+"""
+
 def generate_html_figure(img_name, source_url, img_dimensions):
     width = img_dimensions[0]
     height = img_dimensions[1]
@@ -17,7 +21,7 @@ def generate_html_figure(img_name, source_url, img_dimensions):
 <hr>
             '''
 
-def generate_readme(wallpaper_dir: Path):
+def generate_sub_readme(wallpaper_dir: Path):
     def verify_image(img_file):
         # verificar se o arquivo é uma imagem válida
         try:
@@ -60,8 +64,3 @@ def generate_readme(wallpaper_dir: Path):
     readme = wallpaper_dir / "README.md"
     with open(readme, "w", encoding="utf-8") as f:
         f.write(contents)
-
-# percorrer todos os diretórios no root (projeto atual) e gerar um readme pra cada um
-for wallpaper_dir in Path(".").iterdir():
-    if wallpaper_dir.is_dir():
-        generate_readme(wallpaper_dir)

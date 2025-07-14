@@ -1,2 +1,8 @@
-tem papel  
-there's paper
+![albums](./albums/README.md)  
+![anime](./anime/README.md)  
+![centered](./centered/README.md)  
+![dithering](./dithering/README.md)  
+![outrun](./outrun/README.md)  
+![painting](./painting/README.md)  
+![radium](./radium/README.md)  
+![spam](./spam/README.md)  
