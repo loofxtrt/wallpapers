@@ -1,5 +1,9 @@
 from pathlib import Path
 
+"""
+    utilidades relacionadas à arquivos e diretórios
+"""
+
 ROOT = Path(".")
 MAIN_README = Path("README.md")
 SOURCES = Path("sources.json")

@@ -1,6 +1,10 @@
 from pathlib import Path
 from PIL import Image
 
+"""
+    utilidades relacionadas à imagens (validação de arquivo, tamanho etc.)
+"""
+
 def verify_image(img_file):
     # verificar se o arquivo é uma imagem válida
     try:
