@@ -1,14 +1,5 @@
 
 <figure>
-    <a href="a_bird_flying_over_a_building.jpeg"><img alt="a_bird_flying_over_a_building.jpeg" src="a_bird_flying_over_a_building.jpeg"></a>
-    <figcaption>
-        <a href="https://github.com/dharmx/walls/blob/main/anime/a_bird_flying_over_a_building.jpeg">source</a>
-        4096x4096
-    </figcaption>
-</figure>
-<hr>
-            
-<figure>
     <a href="a_bird_sitting_on_a_railing_next_to_a_satellite_dish.jpg"><img alt="a_bird_sitting_on_a_railing_next_to_a_satellite_dish.jpg" src="a_bird_sitting_on_a_railing_next_to_a_satellite_dish.jpg"></a>
     <figcaption>
         <a href="https://github.com/dharmx/walls/blob/main/anime/a_bird_sitting_on_a_railing_next_to_a_satellite_dish.jpg">source</a>
