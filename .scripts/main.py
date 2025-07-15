@@ -21,7 +21,7 @@ def main():
     
     # gerar e escrever os contents no readme principal
     contents = generate_main_readme(
-        instructions=f"""pro gowall, deve se criar um symlink ou cópia do <code>config.yml</code> em <code>~/.local/</code><br>
+        instructions=f"""pro gowall, deve se criar um symlink ou cópia do <code>config.yml</code> em <code>~/.config/gowall</code><br>
     ex: <code>ln -s /mnt/seagate/workspace/coding/projects/repos/wallpapers/config.yml ~/.config/gowall/config.yml</code>"""
     )
     with open(MAIN_README, "w", encoding="utf-8") as f:

@@ -26,3 +26,12 @@
 </figure>
 <hr>
             
+<figure>
+    <a href="rene_magritte_son_of_the_man.jpg"><img alt="rene_magritte_son_of_the_man.jpg" src="rene_magritte_son_of_the_man.jpg"></a>
+    <figcaption>
+        <a href="https://wallpapercat.com/magritte-wallpapers">source</a>
+        2880x1800
+    </figcaption>
+</figure>
+<hr>
+            

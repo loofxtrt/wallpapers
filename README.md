@@ -1,6 +1,6 @@
 
 <div>
-    pro gowall, deve se criar um symlink ou cópia do <code>config.yml</code> em <code>~/.local/</code><br>
+    pro gowall, deve se criar um symlink ou cópia do <code>config.yml</code> em <code>~/.config/gowall</code><br>
     ex: <code>ln -s /mnt/seagate/workspace/coding/projects/repos/wallpapers/config.yml ~/.config/gowall/config.yml</code>
 </div>
 
@@ -170,6 +170,9 @@
   <img src="painting/a_painting_of_a_tree_and_water.jpg" width="30%"/>
   <img src="painting/a_painting_of_flowers_and_a_glass_of_wine.jpg" width="30%"/>
   <img src="painting/a_painting_of_flowers_on_a_surface.jpg" width="30%"/>
+</p>
+<p align="center">
+  <img src="painting/rene_magritte_son_of_the_man.jpg" width="30%"/>
 </p>
 <p align="center">
   <img src="radium/a_group_of_flowers_on_a_black_background.png" width="30%"/>
