@@ -81,7 +81,7 @@ def generate_main_readme(instructions):
     contents = f"""
 <div>
     {instructions}
-<\div>
+</div>
 
 <div>
     {summary}

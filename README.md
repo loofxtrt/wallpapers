@@ -1,8 +1,8 @@
 
 <div>
-    pro gowall, deve se criar um symlink ou cópia do `config.yml` em `~/.local/`  
-    ex: `ln -s /mnt/seagate/workspace/coding/projects/repos/wallpapers/config.yml ~/.config/gowall/config.yml`
-<\div>
+    pro gowall, deve se criar um symlink ou cópia do <code>config.yml</code> em <code>~/.local/</code><br>
+    ex: <code>ln -s /mnt/seagate/workspace/coding/projects/repos/wallpapers/config.yml ~/.config/gowall/config.yml</code>
+</div>
 
 <div>
     
