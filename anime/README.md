@@ -171,15 +171,6 @@
 <hr>
             
 <figure>
-    <a href="a-cartoon-of-a-woman-walking-up-stairs.jpg"><img alt="a-cartoon-of-a-woman-walking-up-stairs.jpg" src="a-cartoon-of-a-woman-walking-up-stairs.jpg"></a>
-    <figcaption>
-        <a href="https://github.com/dharmx/walls/blob/main/anime/a_cartoon_of_a_woman_walking_up_stairs.jpg">source</a>
-        2880x5120
-    </figcaption>
-</figure>
-<hr>
-            
-<figure>
     <a href="a-cartoon-of-a-woman-with-flowers-in-her-hair.jpg"><img alt="a-cartoon-of-a-woman-with-flowers-in-her-hair.jpg" src="a-cartoon-of-a-woman-with-flowers-in-her-hair.jpg"></a>
     <figcaption>
         <a href="https://github.com/dharmx/walls/blob/main/anime/a_cartoon_of_a_woman_with_flowers_in_her_hair.jpg">source</a>
