@@ -1,2 +1,1 @@
-- kebab-case
 - automação do path do config
