@@ -72,13 +72,17 @@ def generate_grid(IMAGES_PER_ROW: int):
     
     return grid
 
-def generate_main_readme():
+def generate_main_readme(instructions):
     # criar os conteúdos do readme principal, unindo o summary, grid, definindo a quantidade de imagens por row
     # e juntando os dois no final
     summary = generate_summary()
     grid = generate_grid(IMAGES_PER_ROW=3)
 
     contents = f"""
+<div>
+    {instructions}
+<\div>
+
 <div>
     {summary}
 </div>

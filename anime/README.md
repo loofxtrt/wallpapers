@@ -90,15 +90,6 @@
 <hr>
             
 <figure>
-    <a href="a_cartoon_of_a_girl_standing_under_a_tree_with_purple_flowers.png"><img alt="a_cartoon_of_a_girl_standing_under_a_tree_with_purple_flowers.png" src="a_cartoon_of_a_girl_standing_under_a_tree_with_purple_flowers.png"></a>
-    <figcaption>
-        <a href="https://github.com/dharmx/walls/blob/main/anime/a_cartoon_of_a_girl_standing_under_a_tree_with_purple_flowers.png">source</a>
-        1200x1200
-    </figcaption>
-</figure>
-<hr>
-            
-<figure>
     <a href="a_cartoon_of_a_group_of_people_playing_music.jpg"><img alt="a_cartoon_of_a_group_of_people_playing_music.jpg" src="a_cartoon_of_a_group_of_people_playing_music.jpg"></a>
     <figcaption>
         <a href="https://github.com/dharmx/walls/blob/main/anime/a_cartoon_of_a_group_of_people_playing_music.jpg">source</a>

@@ -1,5 +1,10 @@
 
 <div>
+    pro gowall, deve se criar um symlink ou cópia do `config.yml` em `~/.local/`  
+    ex: `ln -s /mnt/seagate/workspace/coding/projects/repos/wallpapers/config.yml ~/.config/gowall/config.yml`
+<\div>
+
+<div>
     
 <p align="center">
     <a href="./albums/README.md">
@@ -72,71 +77,70 @@
 </p>
 <p align="center">
   <img src="anime/a_cartoon_of_a_girl_standing_next_to_a_car.jpg" width="30%"/>
-  <img src="anime/a_cartoon_of_a_girl_standing_under_a_tree_with_purple_flowers.png" width="30%"/>
   <img src="anime/a_cartoon_of_a_group_of_people_playing_music.jpg" width="30%"/>
+  <img src="anime/a_cartoon_of_a_person_holding_a_globe.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_cartoon_of_a_person_holding_a_globe.jpg" width="30%"/>
   <img src="anime/a_cartoon_of_a_woman_holding_a_hose_with_a_hose_in_front_of_a_swimming_pool.jpg" width="30%"/>
   <img src="anime/a_cartoon_of_a_woman_holding_a_sword.jpg" width="30%"/>
+  <img src="anime/a_cartoon_of_a_woman_in_a_pool.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_cartoon_of_a_woman_in_a_pool.jpg" width="30%"/>
   <img src="anime/a_cartoon_of_a_woman_on_a_beach.jpg" width="30%"/>
   <img src="anime/a_cartoon_of_a_woman_standing_next_to_a_car.jpg" width="30%"/>
+  <img src="anime/a_cartoon_of_a_woman_standing_on_a_railing_overlooking_a_body_of_water.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_cartoon_of_a_woman_standing_on_a_railing_overlooking_a_body_of_water.jpg" width="30%"/>
   <img src="anime/a_cartoon_of_a_woman_walking_in_a_city.jpg" width="30%"/>
   <img src="anime/a_cartoon_of_a_woman_walking_up_stairs.jpg" width="30%"/>
+  <img src="anime/a_cartoon_of_girls_playing_instruments_on_a_street.jpeg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_cartoon_of_girls_playing_instruments_on_a_street.jpeg" width="30%"/>
   <img src="anime/a_city_landscape_with_trees_and_buildings.jpeg" width="30%"/>
   <img src="anime/a_city_skyline_with_trees_and_clouds.jpg" width="30%"/>
+  <img src="anime/a_colorful_buildings_with_power_lines.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_colorful_buildings_with_power_lines.jpg" width="30%"/>
   <img src="anime/a_couple_of_people_walking_on_a_road_with_power_lines_and_telephone_poles.jpg" width="30%"/>
   <img src="anime/a_group_of_black_wolves_with_red_eyes.jpg" width="30%"/>
+  <img src="anime/a_group_of_people_standing_in_a_room_with_a_large_globe.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_group_of_people_standing_in_a_room_with_a_large_globe.jpg" width="30%"/>
   <img src="anime/a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background.jpg" width="30%"/>
   <img src="anime/a_moon_and_clouds_at_night.jpg" width="30%"/>
+  <img src="anime/a_park_with_a_playground_and_trees_01.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_park_with_a_playground_and_trees_01.jpg" width="30%"/>
   <img src="anime/a_park_with_benches_and_trees_at_night.jpg" width="30%"/>
   <img src="anime/a_planter_in_a_courtyard.jpg" width="30%"/>
+  <img src="anime/a_red_and_white_paint.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_red_and_white_paint.jpg" width="30%"/>
   <img src="anime/a_cartoon_of_a_girl_standing_on_a_balcony_with_red_balloons.jpeg" width="30%"/>
   <img src="anime/a_cartoon_of_a_woman_with_flowers_in_her_hair.jpg" width="30%"/>
+  <img src="anime/a_road_leading_to_a_city.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_road_leading_to_a_city.jpg" width="30%"/>
   <img src="anime/a_road_with_power_lines_and_power_lines.png" width="30%"/>
   <img src="anime/a_rock_and_grass_in_a_dark_room.png" width="30%"/>
+  <img src="anime/a_scooter_parked_on_a_street.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_scooter_parked_on_a_street.jpg" width="30%"/>
   <img src="anime/a_statue_of_a_man_in_a_park_at_night.jpg" width="30%"/>
   <img src="anime/a_statue_of_a_man_standing_on_a_pedestal_in_front_of_a_row_of_flags.jpg" width="30%"/>
+  <img src="anime/a_train_at_a_train_station.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_train_at_a_train_station.jpg" width="30%"/>
   <img src="anime/a_train_going_through_a_lake_01.jpg" width="30%"/>
   <img src="anime/a_train_on_tracks_in_a_snowy_city.jpg" width="30%"/>
+  <img src="anime/a_tree_branch_with_snow_on_it.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_tree_branch_with_snow_on_it.jpg" width="30%"/>
   <img src="anime/a_view_of_the_ocean_from_a_balcony.jpeg" width="30%"/>
   <img src="anime/a_waterfall_in_the_rain.jpg" width="30%"/>
+  <img src="anime/a_woman_wearing_a_helmet.jpg" width="30%"/>
 </p>
 <p align="center">
-  <img src="anime/a_woman_wearing_a_helmet.jpg" width="30%"/>
   <img src="anime/cartoon_of_a_girl_in_a_bus.jpg" width="30%"/>
   <img src="anime/power_lines_and_trees_at_sunset.jpg" width="30%"/>
 </p>
