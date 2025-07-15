@@ -2,7 +2,6 @@ from urllib.parse import urlparse
 from pathlib import Path, PurePosixPath
 import requests
 
-
 def url_to_raw(url: str):
     """
         transforma uma url de repositório em uma url de raw content. ex:  
