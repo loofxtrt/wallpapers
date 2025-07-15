@@ -1,2 +1,1 @@
 OutputFolder: "/mnt/seagate/workspace/coding/projects/repos/wallpapers/.gowall-output"
-OutputPattern: "{name}_{theme}.{ext}" # nome e padrão de saída com nome, tema e extensão
